@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OctHuberTest</string>
+    <string name="instruction">Please enter the business you would like to find and hit the search button</string>
+    <string name="search_hint">Business</string>
+    <string name="textViewSearchResults">This is where the business info will go</string>
+    <string name="search">Search</string>
+</resources>
